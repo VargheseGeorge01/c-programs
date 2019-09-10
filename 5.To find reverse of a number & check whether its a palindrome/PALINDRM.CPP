@@ -14,7 +14,7 @@ rev=rev*10+d;
 num=num/10;
 }
 if(rev==n)
-printf("Paliandrome");
+printf("Palindrome");
 else
 printf("Not Palindrome");
 getch();
